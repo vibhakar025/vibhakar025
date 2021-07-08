@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vibhakar</h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vibhakar025" alt="vibhakar025" /></a> </p>
+- 🔭 Currently working on **some cool new projects**
 
 - 🌱 I’m currently learning **Django, Javascript**
+
+- 👯 Looking to collaborate on **new projects/ideas**
 
 - 📫 How to reach me **vibhakar025@gmail.com**
 
