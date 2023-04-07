@@ -3,8 +3,6 @@
 
 - 🔭 Currently working on **some cool new projects**
 
-- 🌱 I’m currently learning **Django, Javascript**
-
 - 👯 Looking to collaborate on **new projects/ideas**
 
 - 📫 How to reach me **vibhakar025@gmail.com**
